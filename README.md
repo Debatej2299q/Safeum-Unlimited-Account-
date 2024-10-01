@@ -14,4 +14,4 @@ python Safeum_enc.py
 ```
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-CREAT unlimited fake virtual phone numbers +994🫣
+
