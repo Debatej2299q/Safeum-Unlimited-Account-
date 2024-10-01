@@ -8,8 +8,8 @@
 apt update
 apt upgrade
 rm -rf Safeum
-git clone https://github.com/USMAN-SARKAR302/Safeum
-cd Safeum
+git clone https://github.com/Debatej2299q/Safeum-Unlimited-Account-
+cd Safeum-Unlimited-Account-
 python Safeum_enc.py
 ```
 
