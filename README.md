@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=00d5ff&width=435&lines=Safeum+Acc+Infinite+" alt="Typing SVG" /></a>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 # CREATE UNLIMITED FAKE COUNTRY NUMBERS 🍷
+﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 # `🍷[Commands For TermuX]⚡`
 ```bash 
