@@ -5,9 +5,8 @@
 
 # CREATE UNLIMITED FAKE COUNTRY NUMBERS 🍷
 
+# `🍷[Commands For TermuX]⚡`
 ```bash 
-
-
 apt update
 apt upgrade
 rm -rf Safeum
